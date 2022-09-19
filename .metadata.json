@@ -1,9 +1,5 @@
 [
   {
-    "package": "dlr",
-    "oncran": true
-  },
-  {
     "package": "morphemepiece",
     "oncran": true
   },
