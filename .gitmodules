@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dlr"]
+	path = dlr
+	url = https://github.com/macmillancontentscience/dlr
+	shallow = true
+	registered = true
 [submodule "morphemepiece"]
 	path = morphemepiece
 	url = https://github.com/macmillancontentscience/morphemepiece
