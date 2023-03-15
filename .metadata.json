@@ -1,6 +1,18 @@
 [
   {
+    "package": "dlr",
+    "oncran": true
+  },
+  {
     "package": "morphemepiece",
+    "oncran": true
+  },
+  {
+    "package": "morphemepiece.data",
+    "oncran": true
+  },
+  {
+    "package": "piecemaker",
     "oncran": true
   },
   {
@@ -9,18 +21,6 @@
   },
   {
     "package": "wordpiece.data",
-    "oncran": true
-  },
-  {
-    "package": "piecemaker",
-    "oncran": true
-  },
-  {
-    "package": "dlr",
-    "oncran": true
-  },
-  {
-    "package": "morphemepiece.data",
     "oncran": true
   }
 ]
