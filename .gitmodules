@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "dlr"]
 	path = dlr
 	url = https://github.com/macmillancontentscience/dlr
-	shallow = true
-	registered = true
 [submodule "morphemepiece"]
 	path = morphemepiece
 	url = https://github.com/macmillancontentscience/morphemepiece
-	shallow = true
-	registered = true
 [submodule "morphemepiece.data"]
 	path = morphemepiece.data
 	url = https://github.com/macmillancontentscience/morphemepiece.data
-	shallow = true
-	registered = true
 [submodule "piecemaker"]
 	path = piecemaker
 	url = https://github.com/macmillancontentscience/piecemaker
-	shallow = true
-	registered = true
 [submodule "wordpiece"]
 	path = wordpiece
 	url = https://github.com/macmillancontentscience/wordpiece
-	shallow = true
-	registered = true
 [submodule "wordpiece.data"]
 	path = wordpiece.data
 	url = https://github.com/macmillancontentscience/wordpiece.data
-	shallow = true
-	registered = true
